@@ -1,2 +1,2 @@
-# https://WilliamApocalypse.github.io
+# http://WilliamApocalypse.github.io
 AdsenseReserve
