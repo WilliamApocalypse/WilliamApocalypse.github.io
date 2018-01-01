@@ -5,6 +5,6 @@
     <meta charset="utf-8">
   </head>
   <body>
-   &nbsp;&nbsp;<a href="https://www.lojafetiches.com.br/?utm_source=ads-superior-blog&utm_medium=ads-superior-blog&utm_campaign=ads-superior-blog" target="_top"><img src="https://cdn.awsli.com.br/404/404485/arquivos/BANNER-ADSENSE.png" /></a>
+<span style="color: white;">LF</span><a href="https://www.lojafetiches.com.br/?utm_source=ads-superior-blog&amp;utm_medium=ads-superior-blog&amp;utm_campaign=ads-superior-blog" target="_top"><img src="https://cdn.awsli.com.br/404/404485/arquivos/BANNER-ADSENSE.png" /></a>
   </body>
 </html>
